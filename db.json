@@ -1,0 +1,154 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "confirmPassword": "12345",
+      "password": "12345",
+      "age": 33,
+      "email": "lapissymun@gmail.com",
+      "lastName": "fsdfg",
+      "firstName": "sdf",
+      "id": 2
+    },
+    {
+      "confirmPassword": "1235",
+      "password": "1235",
+      "age": 33,
+      "email": "lapissymun@gmail.com",
+      "lastName": "n",
+      "firstName": "apple",
+      "id": 3
+    },
+    {
+      "confirmPassword": "1235",
+      "password": "1235",
+      "age": 33,
+      "email": "lapissymun@gmail.com",
+      "lastName": "n",
+      "firstName": "apple",
+      "id": 4
+    },
+    {
+      "confirmPassword": "1235",
+      "password": "1235",
+      "age": 33,
+      "email": "lapissymun@gmail.com",
+      "lastName": "n",
+      "firstName": "apple",
+      "id": 5
+    },
+    {
+      "confirmPassword": "12345",
+      "password": "12345",
+      "age": 33,
+      "email": "lapissymun@gmail.com",
+      "lastName": "fsdfg",
+      "firstName": "apple",
+      "id": 6
+    },
+    {
+      "confirmPassword": "12345",
+      "password": "12345",
+      "age": 33,
+      "email": "lapissymun@gmail.com",
+      "lastName": "fsdfg",
+      "firstName": "apple",
+      "id": 7
+    },
+    {
+      "confirmPassword": "12345",
+      "password": "12345",
+      "age": 33,
+      "email": "lapissymun@gmail.com",
+      "lastName": "fsdfg",
+      "firstName": "apple",
+      "id": 8
+    }
+  ],
+  "userinfo": [
+    {
+      "confirmPassword": "12345",
+      "password": "12345",
+      "age": 33,
+      "email": "lapissymun@gmail.com",
+      "lastName": "fsdfg",
+      "firstName": "apple",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "player": [
+    {
+      "fullName": "Abdullah Shafique updated",
+      "born": "20 November 1999",
+      "age": 20,
+      "battingStyle": "Right Hand Bat",
+      "bowlingStyle": "yes",
+      "playingrole": "Top order Batter",
+      "team": "Pakistan",
+      "description": "updated description\n",
+      "id": 1
+    },
+    {
+      "fullName": "Abdullah Shafique up",
+      "born": "20 Feb 2004",
+      "age": 28,
+      "battingStyle": "Left hand Bat",
+      "bowlingStyle": "Right arm Offbreak",
+      "playingrole": "Middle order Batter",
+      "team": "Pakistan",
+      "description": "description",
+      "id": 2
+    },
+    {
+      "fullName": "Fakhar Zaman updated",
+      "born": "April 10, 1990, Mardan",
+      "age": 22,
+      "battingStyle": "Left hand Bat",
+      "bowlingStyle": "Legbreak",
+      "playingrole": "Middle order Batter",
+      "team": "Pakistan",
+      "description": "fsdfsadf",
+      "id": 3
+    }
+  ],
+  "coach": [
+    {
+      "age": 10,
+      "born": "20 November 1999",
+      "fullName": "Abdullah Shafique moto",
+      "id": 1
+    },
+    {
+      "fullName": "test",
+      "born": "test",
+      "age": 33,
+      "id": 2
+    },
+    {
+      "age": 15,
+      "born": "20 Feb 2004",
+      "fullName": "Khushdil Shah",
+      "id": 3
+    },
+    {
+      "age": 20,
+      "born": "20 November 1999",
+      "fullName": "Khushdil Shah",
+      "id": 4
+    }
+  ]
+}

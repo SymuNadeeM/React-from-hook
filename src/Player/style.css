@@ -1,0 +1,63 @@
+/* player Add */
+@import url("https://fonts.googleapis.com/css2?family=Barlow&family=Fascinate&family=Oswald&family=PT+Sans&family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,800;0,900;1,600&family=Roboto+Condensed:wght@300;400&family=Titan+One&display=swap");
+.title_div {
+  display: flex;
+}
+.title_div .cri_icon {
+  font-size: 40px;
+  color: #ef5b0c;
+}
+
+.title_div h2 {
+  font-family: "Barlow", sans-serif;
+  font-size: 30px;
+}
+
+form {
+  background-color: #9c9efe;
+  padding: 20px;
+  border-radius: 10px;
+}
+.childen_div {
+  display: flex;
+  flex-direction: column;
+}
+.childen_div label {
+  font-family: "PT Sans", sans-serif;
+  color: #f1f1f1;
+}
+.childen_div input {
+  padding: 7px;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+}
+.descrip {
+  margin-top: 12px;
+}
+textarea {
+  padding: 7px;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+}
+.submit_button {
+  margin-top: 10px;
+}
+
+.submit_button input {
+  width: 300px;
+  height: 35px;
+  outline: none;
+  border: none;
+
+  border-radius: 5px;
+  background-color: #5800ff;
+}
+.submit_button input:hover {
+  transition: 0.4s;
+  color: #f1f1f1;
+}
+.childen_div p {
+  color: crimson;
+}

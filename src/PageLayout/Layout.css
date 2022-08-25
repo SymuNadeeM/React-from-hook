@@ -1,0 +1,28 @@
+.side_bar {
+  position: fixed;
+  left: 0;
+  width: 220px;
+  height: 100%;
+  background-color: #042331;
+}
+.all_link {
+  margin-top: 25px;
+}
+.side_bar .all_link .nav-link {
+  line-height: 1px;
+  color: aliceblue;
+}
+.side_bar .all_link .nav-link:hover {
+  color: blue;
+}
+.logo_icon {
+  color: crimson;
+  margin-right: 3px;
+  font-weight: 40px;
+}
+
+/* :::outlet::: */
+.row .outlet_div {
+  margin-top: 50px;
+  padding: 15px;
+}
